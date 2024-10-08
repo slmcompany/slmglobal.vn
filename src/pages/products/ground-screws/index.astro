@@ -1,0 +1,136 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import fetchApi from "../../../lib/strapi.ts";
+import type Products from "../../../interfaces/products.ts";
+import Image from "astro/components/Image.astro";
+import Productmenu from "../../../components/Productmenu.astro";
+
+const Products = await fetchApi<Products[]>({
+    endpoint:
+        "products?populate=feature_image&populate[1]=highlight&filters[$and][0][category][$eq]=screw",
+    wrappedByKey: "data", // the key to unwrap the response
+});
+
+const menuItems = [
+
+    {
+        title: "Thread Screw",
+        imageSrc: "/images/uil_screw.svg",
+        bgColor: "bg-red-500",
+        textColor: "text-red-500",
+        borderClass: "border-red-500",
+        link: "/products/ground-screws",
+    },
+    {
+        title: "Helical Screw",
+        imageSrc: "/images/uil_screw.svg",
+        bgColor: "bg-red-500",
+        textColor: "text-red-500",
+        borderClass: "border-red-500",
+        link: "/products/ground-screws",
+    },
+    
+];
+---
+
+<Layout title="Products">
+    <div class="bg-slate-100 py-24 sm:py-12">
+        <div class="mx-auto max-w-7xl px-4 lg:px-8">
+            <div class="mx-auto max-w-2xl lg:mx-0">
+                <div class="h-12 justify-between items-center flex">
+                    <div
+                        class="p-3 bg-white rounded-lg border border-gray-200 justify-start items-center gap-4 flex"
+                    >
+                        <div class="justify-start items-center gap-2 flex">
+                            <div
+                                class="w-7 h-7 px-1 pt-1 pb-[3px] justify-center items-center flex"
+                            >
+                                <img
+                                    src="/images/tabler_filter.svg"
+                                    alt="filter"
+                                />
+                            </div>
+                            <div
+                                class="text-center text-gray-700 text-base font-medium leading-normal"
+                            >
+                                Filter
+                            </div>
+                        </div>
+                    </div>
+                    <div
+                        class="p-3 bg-white rounded-lg border border-gray-200 justify-start items-center gap-4 flex"
+                    >
+                        <div class="justify-start items-center gap-2 flex">
+                            <div
+                                class="w-6 h-6 px-[3px] py-1.5 justify-center items-center flex"
+                            >
+                                <img
+                                    src="/images/ic_round-sort.svg"
+                                    alt="sort"
+                                />
+                            </div>
+                            <div class="text-center">
+                                <span
+                                    style="text-gray-700 text-base font-medium  leading-normal"
+                                    >Sort by:
+                                </span><span
+                                    style="text-gray-700 text-base font-bold  leading-normal"
+                                    >Highlight</span
+                                >
+                            </div>
+                        </div>
+                        <div
+                            class="w-6 h-6 origin-top-left rotate-90 justify-center items-center flex"
+                        >
+                            <div class="w-6 h-6 relative"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div
+                class="pt-5 grid grid-cols-1 gap-y-4 sm:grid-cols-2 sm:gap-x-6 sm:gap-y-10 lg:grid-cols-3 lg:gap-x-4"
+            >
+                {
+                    Products.map((product) => (
+                        <div class="h-40 bg-white rounded-[10px] shadow justify-start items-start inline-flex">
+                            <div class="w-40 h-40 p-2 justify-center items-center flex">
+                                <a
+                                    href={`/products/${product.attributes.slug}/`}
+                                >
+                                    <Image
+                                        class="grow shrink basis-0 self-stretch rounded-md object-cover"
+                                        src={`https://api.slmglobal.vn${product.attributes.feature_image.data.attributes.url}`}
+                                        alt={product.attributes.title}
+                                        inferSize
+                                    />
+                                </a>
+                            </div>
+                            <div class="grow shrink basis-0 px-4 py-3 flex-col justify-start items-start gap-1 inline-flex">
+                                <a
+                                    href={`/products/${product.attributes.slug}/`}
+                                >
+                                    <h1 class="self-stretch text-gray-700 text-sm leading-tight">
+                                        {product.attributes.title}
+                                    </h1>
+                                </a>
+                                {Array.isArray(product.attributes.highlight) &&
+                                    product.attributes.highlight.map(
+                                        (item: any) => (
+                                            <div class="self-stretch text-gray-700 text-sm leading-tight">
+                                                {item.title}:{item.value}
+                                            </div>
+                                        )
+                                    )}
+
+                                {/* <div class="self-stretch w-20 text-center p-1 rounded-md text-white bg-red-600 text-sm leading-tight">
+                                    USD 100
+                                </div> */}
+                            </div>
+                        </div>
+                    ))
+                }
+            </div>
+        </div>
+    </div>
+  
+</Layout>

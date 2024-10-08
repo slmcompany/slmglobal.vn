@@ -1,0 +1,114 @@
+---
+const featureitem = [
+    {
+        title: "MARINE PRODUCTS",
+        imageSrc: "/images/ph_boat-bold.svg",
+        link: "/marine-products",
+    },
+    {
+        title: "GROUND SCREWS",
+        imageSrc: "/images/uil_screw.svg",
+        link: "/ground-screws",
+    },
+    {
+        title: "RUBBER",
+        imageSrc: "/images/la_tape.svg",
+        link: "/rubber",
+    },
+];
+---
+
+<div class="relative isolate overflow-hidden pt-14 h-screen block sm:hidden">
+    <div class="absolute inset-0 -z-9 h-full w-full object-cover bg-red-700">
+    </div>
+    <!-- <video
+        class="absolute inset-0 -z-10 h-full w-full object-cover"
+        muted
+        autoplay
+        loop
+        plays-inline
+    >
+        <source src="images/video-ma.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+    </video> -->
+    <div
+        class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
+        aria-hidden="true"
+    >
+        <div
+            class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-20 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]"
+            style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"
+        >
+        </div>
+    </div>
+    <div
+        class="mx-auto max-w-2xl h-screen w-full sm:py-48 lg:py-56 z-0 absolute"
+    >
+        <div class="text-left px-6">
+            <h1
+                class="text-6xl font-bold tracking-tight text-white sm:text-6xl"
+            >
+                Feature <br /> Catogery
+            </h1>
+
+            <div class="mt-16 flex flex-col items-start justify-center gap-x-6">
+                <ul
+                    role="list"
+                    class="w-full grid gap-x-4 gap-y-4 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2"
+                >
+                    {
+                        featureitem.map((item) => (
+                            <li>
+                                <a
+                                    href={item.link}
+                                    class="flex items-center  justify-between gap-x-6 bg-red-600 shadow-md rounded-lg p-3"
+                                >
+                                    <div class="flex gap-2  justify-between items-center">
+                                        <div class="flex items-center h-12 w-12 bg-red-700	rounded-md">
+                                            <img
+                                                class="h-8 w-8 mx-auto "
+                                                src={item.imageSrc}
+                                                alt=""
+                                            />
+                                        </div>
+                                        <div class="">
+                                            <h2 class="text-2xl font-semibold leading-7 tracking-tight text-white">
+                                                {item.title}
+                                            </h2>
+                                        </div>
+                                    </div>
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        fill="none"
+                                        viewBox="0 0 24 24"
+                                        stroke-width="3"
+                                        stroke="currentColor"
+                                        class="h-5 w-5 text-white"
+                                    >
+                                        <path
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                            d="m8.25 4.5 7.5 7.5-7.5 7.5"
+                                        />
+                                    </svg>
+                                </a>
+                            </li>
+                        ))
+                    }
+
+                    <!-- More people... -->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div
+        class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]"
+        aria-hidden="true"
+    >
+        <div
+            class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#ff80b5] to-[#9089fc] opacity-20 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]"
+            style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"
+        >
+        </div>
+    </div>
+</div>

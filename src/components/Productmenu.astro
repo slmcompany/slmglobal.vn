@@ -1,0 +1,27 @@
+---
+const { menuItems } = Astro.props;
+---
+
+<div class="fixed bottom-0 z-10 h-[72px] justify-start items-start inline-flex w-full bg-white">
+  {menuItems.map((item:any) => (
+   
+   <div
+     
+      class={`grow shrink basis-0 p-3 ${item.bgColor === 'bg-red-500' ? 'bg-gray-50 border-t-2 ' + item.borderClass : ''} flex-col justify-center items-center gap-1 inline-flex`}
+    >
+      <div class={`p-1 ${item.bgColor} rounded justify-center items-center gap-2.5 inline-flex`}>
+        <a href={item.link}>
+        <div class="w-4 h-4 justify-center items-center flex">
+          <img src={item.imageSrc} alt={item.title} />
+        </div>
+      </a>
+      </div>
+      <a href={item.link}>
+      <div class={`${item.textColor} text-sm leading-tight`}>
+        {item.title}
+      </div>
+    </a>
+    </div>
+  
+  ))}
+</div>

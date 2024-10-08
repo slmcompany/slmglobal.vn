@@ -1,0 +1,291 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import fetchApi from "../../lib/strapi.ts";
+import type Products from "../../interfaces/products.ts";
+import Image from "astro/components/Image.astro";
+import Productmenu from "../../components/Productmenu.astro";
+export async function getStaticPaths({}) {
+    const Products: Array<Products> = await fetchApi({
+        endpoint:
+            "products?populate=feature_image&populate[0]=datasheet&populate[1]=datasheet.block_data", // the content type to fetch
+        wrappedByKey: "data", // the key to unwrap the response
+    });
+
+    return Products.map((product: any) => ({
+        params: { slug: product.attributes.slug },
+        props: product,
+    }));
+}
+
+const Products = Astro.props;
+const baseUrl = import.meta.env.STRAPI_URL;
+
+const menuItems = [
+{
+        title: "Thread Screw",
+        imageSrc: "/images/uil_screw.svg",
+        bgColor: "bg-red-500",
+        textColor: "text-red-500",
+        borderClass: "border-red-500",
+        link: "/products/ground-screws",
+    },
+    {
+        title: "Helical Screw",
+        imageSrc: "/images/uil_screw.svg",
+        bgColor: "bg-red-500",
+        textColor: "text-red-500",
+        borderClass: "border-red-500",
+        link: "/products/ground-screws",
+    },
+];
+---
+
+<Layout title={Products.attributes.title}>
+    <div class="bg-slate-100">
+        <div class="pb-16 pt-6 sm:pb-24">
+            <nav
+                aria-label="Breadcrumb"
+                class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 hidden sm:block"
+            >
+                <ol role="list" class="flex items-center space-x-4">
+                    <li>
+                        <div class="flex items-center">
+                            <a
+                                href="#"
+                                class="mr-4 text-sm font-medium text-gray-900"
+                                >Product</a
+                            >
+                            <svg
+                                viewBox="0 0 6 20"
+                                aria-hidden="true"
+                                class="h-5 w-auto text-gray-300"
+                            >
+                                <path
+                                    d="M4.878 4.34H3.551L.27 16.532h1.327l3.281-12.19z"
+                                    fill="currentColor"></path>
+                            </svg>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="flex items-center">
+                            <a
+                                href={`/products/${Products.attributes.categories}/`}
+                                class="mr-4 text-sm font-medium text-gray-900"
+                                >{Products.attributes.category}</a
+                            >
+                            <svg
+                                viewBox="0 0 6 20"
+                                aria-hidden="true"
+                                class="h-5 w-auto text-gray-300"
+                            >
+                                <path
+                                    d="M4.878 4.34H3.551L.27 16.532h1.327l3.281-12.19z"
+                                    fill="currentColor"></path>
+                            </svg>
+                        </div>
+                    </li>
+
+                    <li class="text-sm">
+                        <a
+                            href="#"
+                            aria-current="page"
+                            class="font-medium text-gray-500 hover:text-gray-600"
+                            >{Products.attributes.title}
+                        </a>
+                    </li>
+                </ol>
+            </nav>
+            <div
+                class="mx-auto mt-8 max-w-2xl px-4 sm:px-6 lg:max-w-7xl lg:px-8 bg-white"
+            >
+                <div
+                    class="lg:grid lg:auto-rows-min lg:grid-cols-12 lg:gap-x-8"
+                >
+                    <div
+                        class="mt-8 lg:col-span-7 lg:col-start-1 lg:row-span-3 lg:row-start-1 lg:mt-0"
+                    >
+                        <div
+                            class="grid grid-cols-1 lg:grid-cols-2 lg:grid-rows-3 lg:gap-8"
+                        >
+                            <Image
+                                src={`https://api.slmglobal.vn${Products.attributes.feature_image.data.attributes.url}`}
+                                alt={Products.attributes.title}
+                                class="rounded-lg lg:col-span-2 lg:row-span-1"
+                                inferSize
+                            />
+
+                            <!-- {
+                        (Products.attributes?.gallery?.data || []).map(
+                            (gallery: any) => (
+                                <Image
+                                    src={`${baseUrl}${gallery.attributes.url}`}
+                                    alt={Products.attributes.title}
+                                    class="hidden rounded-lg lg:block"
+                                    inferSize
+                                />
+                            )
+                        )
+                    } -->
+                        </div>
+                    </div>
+
+                    <div
+                        class="w-[430px] h-48 p-4 bg-gray-50 flex-col justify-start items-start gap-4 inline-flex"
+                    >
+                        <div
+                            class="self-stretch justify-start items-center gap-2.5 inline-flex"
+                        >
+                            <div
+                                class="text-gray-700 text-2xl font-bold leading-9"
+                            >
+                                {Products.attributes.title}
+                            </div>
+                        </div>
+                        <div
+                            class="self-stretch justify-start items-start gap-4 inline-flex"
+                        >
+                            <div
+                                class="flex-col justify-center items-start inline-flex"
+                            >
+                                <div
+                                    class="justify-start items-start gap-1 inline-flex"
+                                >
+                                    <div
+                                        class="flex-col justify-start items-end inline-flex"
+                                    >
+                                        <div
+                                            class="justify-center items-center gap-0.5 inline-flex"
+                                        >
+                                            <div
+                                                class="text-[#ef3f37] text-xs font-medium"
+                                            >
+                                                USD
+                                            </div>
+                                            <div
+                                                class="text-[#ef3f37] text-xl font-bold leading-[30px]"
+                                            >
+                                                120
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div
+                                    class="text-gray-700 text-xs font-normal leading-[18px]"
+                                >
+                                    100 pieces (Min. Order)
+                                </div>
+                            </div>
+                            <div
+                                class="flex-col justify-center items-start inline-flex"
+                            >
+                                <div
+                                    class="justify-start items-start gap-1 inline-flex"
+                                >
+                                    <div
+                                        class="flex-col justify-start items-end inline-flex"
+                                    >
+                                        <div
+                                            class="justify-center items-center gap-0.5 inline-flex"
+                                        >
+                                            <div
+                                                class="text-[#ef3f37] text-xs font-medium"
+                                            >
+                                                USD
+                                            </div>
+                                            <div
+                                                class="text-[#ef3f37] text-xl font-bold leading-[30px]"
+                                            >
+                                                115
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div></div>
+                                </div>
+                                <div
+                                    class="text-gray-700 text-xs font-normal leading-[18px]"
+                                >
+                                    100 - 499 pieces
+                                </div>
+                            </div>
+                            <div
+                                class="flex-col justify-center items-start inline-flex"
+                            >
+                                <div
+                                    class="justify-start items-start gap-1 inline-flex"
+                                >
+                                    <div
+                                        class="flex-col justify-start items-end inline-flex"
+                                    >
+                                        <div
+                                            class="justify-center items-center gap-0.5 inline-flex"
+                                        >
+                                            <div
+                                                class="text-[#ef3f37] text-xs font-medium"
+                                            >
+                                                USD
+                                            </div>
+                                            <div
+                                                class="text-[#ef3f37] text-xl font-bold leading-[30px]"
+                                            >
+                                                100
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div></div>
+                                </div>
+                                <div
+                                    class="text-gray-700 text-xs font-normal leading-[18px]"
+                                >
+                                    ≥ 500 pieces
+                                </div>
+                            </div>
+                        </div>
+                        <div
+                            class="self-stretch h-11 flex-col justify-start items-start gap-2.5 flex"
+                        >
+                            <div
+                                class="h-11 w-full px-4 py-2 bg-[#ef3f37] rounded-lg flex-col justify-start items-center flex"
+                            >
+                                <div
+                                    class="text-gray-50 text-xl font-bold leading-7"
+                                >
+                                    Contact us
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {
+                Products.attributes.datasheet.map((data: any) => (
+                    <div class="mt-1 border-gray-200 pt-1">
+                        <div class="overflow-hidden bg-white shadow sm:rounded-sm">
+                            <div class="px-4 py-2 sm:px-6 b">
+                                <h1 class="text-base font-semibold leading-7 text-gray-900">
+                                    {data.block_title}
+                                </h1>
+                            </div>
+                            <div class="border-t border-gray-100">
+                                <dl class="divide-y divide-gray-100">
+                                    {data.block_data.map((data: any) => (
+                                        <div class="px-4 py-2 grid grid-cols-2 gap-4">
+                                            <dt class="text-md font-medium text-gray-900 col-span-1">
+                                                {data.title}
+                                            </dt>
+                                            <dd class="text-md text-right leading-6 text-gray-700">
+                                                {data.content}
+                                            </dd>
+                                        </div>
+                                    ))}
+                                </dl>
+                            </div>
+                        </div>
+                    </div>
+                ))
+            }
+
+          
+        </div>
+    </div></Layout
+>

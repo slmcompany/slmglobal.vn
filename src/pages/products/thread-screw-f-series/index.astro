@@ -1,0 +1,169 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import fetchApi from "../../../lib/strapi.ts";
+import type Products from "../../../interfaces/products.ts";
+import Image from "astro/components/Image.astro";
+
+const Products = await fetchApi<Products[]>({
+    endpoint: "products?populate=*", // the content type to fetch
+    wrappedByKey: "data", // the key to unwrap the response
+});
+
+
+---
+
+<Layout title="Products">
+<div class="bg-white flex">
+  <div class="max-w-7xl">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4 flex flex-nowrap gap-4">
+    <div class="flex-1">
+      <div>
+        <h2 class="text-black text-xl text-">F SERIES - THREAD SCREW</h2>
+        <p>F-series Threaded Screw anchors are designed with round flange
+          heads or squares to support the upper structural frame. Spiral
+          screw parts are welded along the pipe body, and the anchor can
+          also drill deep into the ground a simple construction process
+          helps shorten the time and save costs cost increases stability,
+          and is suitable for hard soils and gravel rock. The product is made
+          from SS400, Q235, and Q345 steel, and hot-dip galvanizing ac-
+          cording to ASTM A123 standards helps the product have good
+          bearing capacity, high durability, and a long life span of up to 30
+          years.</p>
+      </div>
+      <div>
+        <table class="table-auto w-full mt-4">
+          <thead>
+            <tr>
+              <th class="border px-4 py-2">Specifications</th>
+              <th class="border px-4 py-2">TF-1000</th>
+              <th class="border px-4 py-2">TF-1500</th>
+              <th class="border px-4 py-2">TF-2000</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="border px-4 py-2">Length (mm)</td>
+              <td class="border px-4 py-2">1,000</td>
+              <td class="border px-4 py-2">1,500</td>
+              <td class="border px-4 py-2">2,000</td>
+            </tr>
+            <tr>
+              <td class="border px-4 py-2">Pipe size (mm)</td>
+              <td class="border px-4 py-2">76.10</td>
+              <td class="border px-4 py-2">76.10</td>
+              <td class="border px-4 py-2">76.10</td>
+            </tr>
+            <tr>
+              <td class="border px-4 py-2">Weight (kg)</td>
+              <td class="border px-4 py-2">6.56</td>
+              <td class="border px-4 py-2">9.84</td>
+              <td class="border px-4 py-2">13.13</td>
+            </tr>
+            <tr>
+              <td class="border px-4 py-2">Steel grade</td>
+              <td class="border px-4 py-2" colspan="3">STK400/500; SS400; Q345</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <div class="bg-red-500 rounded-full border-spacing-1">
+          <h2 class="text-white p-2">Connection head</h2>
+        </div>
+        <div class="flex flex-wrap justify-between">
+          <img src="/images/classic-collection-1.jpeg" alt="F-series Threaded Screw anchors" class="w-1/3 p-1">
+          <img src="/images/classic-collection-1.jpeg" alt="F-series Threaded Screw anchors" class="w-1/3 p-1">
+          <img src="/images/classic-collection-1.jpeg" alt="F-series Threaded Screw anchors" class="w-1/3 p-1">
+        </div>
+      </div>
+    </div>
+    <div class="flex-1">
+      <img src="/images/classic-collection-1.jpeg" alt="F-series Threaded Screw anchors">
+    </div>
+  </div>
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-4">
+    <div class="flex flex-wrap justify-between">
+      <div>
+        <h2>text 1</h2>
+        <ul class="list-disc pl-5">
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Hot-dip galvanized
+          </li>
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Logo painting
+          </li>
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Packing
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h2>text 2</h2>
+        <ul class="list-disc pl-5">
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Hot-dip galvanized
+          </li>
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Logo painting
+          </li>
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Packing
+          </li>
+        </ul>
+      </div>
+      <div>
+        <h2>text 3</h2>
+        <ul class="list-disc pl-5">
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Hot-dip galvanized
+          </li>
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Logo painting
+          </li>
+          <li class="flex items-center">
+            <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M10 18a8 8 0 100-16 8 8 0 000 16zm-1-11h2v5h-2V7zm0 6h2v2h-2v-2z" />
+            </svg>
+            Packing
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="flex">
+  <div class="w-full md:w-1/2 p-1">
+    <img src="/images/classic-collection-1.jpeg" alt="F-series Threaded Screw anchors" class="w-full">
+  </div>
+  <div class="w-full md:w-1/2 p-1">
+    <img src="/images/classic-collection-1.jpeg" alt="F-series Threaded Screw anchors" class="w-full">
+  </div>
+</div>
+</div>
+
+
+</Layout>
