@@ -1,0 +1,149 @@
+---
+import Layout from '../../../layouts/Layout.astro'
+
+import Image from 'astro/components/Image.astro'
+
+const Products = Astro.props
+const baseUrl = import.meta.env.STRAPI_URL
+
+const product = {
+	title: 'PHENOLIC PLYWOOD',
+	description:
+		'The phenolic film is a versatile material with many advantages. It provides durability, water resistance, scratch resistance, chemical resistance, and high fire resistance, making it suitable for various applications.',
+	specifications: [
+		{
+			title: ' ',
+			length: 'Artificial/natural veneer, Melamine paper',
+			pipeSize: 'Black, brown, or on demand',
+			weight: '12mm/16mm/18mm',
+			surface: '1220x2440mm/1250x2550mm/on demand'
+		}
+	],
+	connectionHead: [
+		'/images/f-series-thread-screw-connect-head_1.png',
+		'/images/f-series-thread-screw-connect-head_2.png',
+		'/images/f-series-thread-screw-connect-head_3.png'
+	],
+	finishing: ['Squeeze', 'Covered, cut', 'Check quality'],
+	accessories: ['Double-sided film', 'Waterproof, fire', 'Anti -chemical', 'Baled'],
+	applications: ['Interior', 'Carriage', 'Industry '],
+	mainImage: '/images/phenolic-plywood/phenolic-plywood-main.jpg',
+	images: [
+		'/images/phenolic-plywood/phenolic-plywood-1.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-2.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-3.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-4.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-5.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-6.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-7.jpg',
+		'/images/phenolic-plywood/phenolic-plywood-8.jpg'
+	]
+}
+
+const title = 'ProduThread Screw F Series'
+---
+
+<Layout title={product.title}>
+	<div class="bg-white pt-14 sm:pt-10 md:pt-10 lg:pt-10">
+		<div class="mx-auto max-w-7xl">
+			<div class="flex flex-wrap">
+				<div class="w-full px-2 md:w-6/12">
+					<div class="w-full">
+						<h2 class="text-2xl font-bold">{product.title}</h2>
+						<p class="text-md text-justify text-gray-700">
+							{product.description}
+						</p>
+						<div class="py-2">
+							<img src={product.mainImage} class="aspect-[16/9] rounded-md object-cover" />
+						</div>
+						<div class="mt-4 overflow-x-auto">
+							<table class="mt-4 min-w-full divide-y divide-gray-200">
+								<thead class="bg-red-700">
+									<tr class="p-2">
+										<th scope="col" class="px-2 text-left uppercase tracking-wider text-white">
+											Specifications
+										</th>
+										{
+											product.specifications.map((spec) => (
+												<th scope="col" class="text-left uppercase tracking-wider text-red-700">
+													<span class="rounded-md px-2">{spec.title}</span>
+												</th>
+											))
+										}
+									</tr>
+								</thead>
+								<tbody class="divide-y divide-gray-200 bg-white">
+									<tr>
+										<td class="whitespace-nowrap text-gray-900">Ingredients</td>
+										{
+											product.specifications.map((spec) => (
+												<td class="whitespace-nowrap">{spec.length}</td>
+											))
+										}
+									</tr>
+									<tr>
+										<td class="whitespace-nowrap text-gray-900">Additives</td>
+										{
+											product.specifications.map((spec) => (
+												<td class="whitespace-nowrap">{spec.pipeSize}</td>
+											))
+										}
+									</tr>
+									<tr>
+										<td class="whitespace-nowrap text-gray-900">Extrusion temperature</td>
+										{
+											product.specifications.map((spec) => (
+												<td class="whitespace-nowrap">{spec.weight}</td>
+											))
+										}
+									</tr>
+									<tr>
+										<td class="whitespace-nowrap text-gray-900">Pressure</td>
+										<td colspan={product.specifications.length} class="whitespace-nowrap">
+											{product.specifications[0].weight}
+										</td>
+									</tr>
+									<tr>
+										<td class="whitespace-nowrap text-gray-900">Expression speed</td>
+										<td colspan={product.specifications.length} class="whitespace-nowrap">
+											{product.specifications[0].surface}
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+						<div class="mt-4 flex flex-wrap justify-between rounded-md bg-slate-100 p-2">
+							<div class="w-full text-left md:w-1/3">
+								<h2 class="font-bold text-red-700">Processing</h2>
+								<ul class="list-inside list-disc text-base">
+									{product.finishing.map((item, index) => <li>{item}</li>)}
+								</ul>
+							</div>
+							<div class="w-full text-left md:w-1/3">
+								<h2 class="font-bold text-red-700">Finishing</h2>
+								<ul class="list-inside list-disc text-base">
+									{product.accessories.map((item, index) => <li>{item}</li>)}
+								</ul>
+							</div>
+							<div class="w-full text-left md:w-1/3">
+								<h2 class="font-bold text-red-700">Applications</h2>
+								<ul class="list-inside list-disc text-base">
+									{product.applications.map((item, index) => <li>{item}</li>)}
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="flex h-full w-full flex-wrap justify-start px-2 md:w-6/12">
+					{
+						product.images.map((image: any, index: number) => (
+							<div class="w-1/2 p-2">
+								<img src={image} class="aspect-[3/2] rounded-md object-cover" />
+							</div>
+						))
+					}
+				</div>
+			</div>
+		</div>
+	</div>
+</Layout>

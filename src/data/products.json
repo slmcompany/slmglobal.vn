@@ -1,0 +1,3507 @@
+[
+  {
+    "id": 134372,
+    "attributes": {
+      "description": "",
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "F-series Threaded Screw anchors are designed with round flange heads or squares to support the upper structural frame. Spiral screw parts are welded along the pipe body, and the anchor can also drill deep into the ground a simple construction process helps shorten the time and save costs cost increases stability, and is suitable for hard soils and gravel rock. The product is made from SS400, Q235, and Q345 steel, and hot-dip galvanizing according to ASTM A123 standards helps the product have good bearing capacity, high durability, and a long life span of up to 30 years.",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:44:28.777Z",
+      "updatedAt": "2024-10-10T09:12:04.710Z",
+      "publishedAt": "2024-09-16T14:44:46.142Z",
+      "slug": "thread-screw-f-series",
+      "title": "Thread Screw | F Series",
+      "sub_category": "thread-screws",
+      "feature_image": {
+        "data": {
+          "id": 947,
+          "attributes": {
+            "name": "f-series-thread-screw-2.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 800,
+            "height": 795,
+            "formats": {
+              "small": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/small_f_series_thread_screw_2_b60c9c5f06.png",
+                "hash": "small_f_series_thread_screw_2_b60c9c5f06",
+                "mime": "image/png",
+                "name": "small_f-series-thread-screw-2.png",
+                "path": null,
+                "size": 563.77,
+                "width": 500,
+                "height": 497
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/medium_f_series_thread_screw_2_b60c9c5f06.png",
+                "hash": "medium_f_series_thread_screw_2_b60c9c5f06",
+                "mime": "image/png",
+                "name": "medium_f-series-thread-screw-2.png",
+                "path": null,
+                "size": 1204.24,
+                "width": 750,
+                "height": 745
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/thumbnail_f_series_thread_screw_2_b60c9c5f06.png",
+                "hash": "thumbnail_f_series_thread_screw_2_b60c9c5f06",
+                "mime": "image/png",
+                "name": "thumbnail_f-series-thread-screw-2.png",
+                "path": null,
+                "size": 60.04,
+                "width": 157,
+                "height": 156
+              }
+            },
+            "hash": "f_series_thread_screw_2_b60c9c5f06",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 346.1,
+            "url": "/images/strapi/uploads/f_series_thread_screw_2_b60c9c5f06.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:11:59.419Z",
+            "updatedAt": "2024-10-10T09:11:59.419Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": [
+          {
+            "id": 933,
+            "attributes": {
+              "name": "1_11.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1369,
+              "height": 508,
+              "formats": {
+                "large": {
+                  "ext": ".jpg",
+                  "url": "/uploads/large_1_11_6671bba804.jpg",
+                  "hash": "large_1_11_6671bba804",
+                  "mime": "image/jpeg",
+                  "name": "large_1_11.jpg",
+                  "path": null,
+                  "size": 55.4,
+                  "width": 1000,
+                  "height": 371
+                },
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_1_11_6671bba804.jpg",
+                  "hash": "small_1_11_6671bba804",
+                  "mime": "image/jpeg",
+                  "name": "small_1_11.jpg",
+                  "path": null,
+                  "size": 17.72,
+                  "width": 500,
+                  "height": 186
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_1_11_6671bba804.jpg",
+                  "hash": "medium_1_11_6671bba804",
+                  "mime": "image/jpeg",
+                  "name": "medium_1_11.jpg",
+                  "path": null,
+                  "size": 34.55,
+                  "width": 750,
+                  "height": 278
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_1_11_6671bba804.jpg",
+                  "hash": "thumbnail_1_11_6671bba804",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_1_11.jpg",
+                  "path": null,
+                  "size": 5.35,
+                  "width": 245,
+                  "height": 91
+                }
+              },
+              "hash": "1_11_6671bba804",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 57.72,
+              "url": "/uploads/1_11_6671bba804.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T09:05:42.124Z",
+              "updatedAt": "2024-10-09T09:05:42.124Z"
+            }
+          },
+          {
+            "id": 934,
+            "attributes": {
+              "name": "p1.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 709,
+              "height": 477,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_p1_a70dc127df.jpg",
+                  "hash": "small_p1_a70dc127df",
+                  "mime": "image/jpeg",
+                  "name": "small_p1.jpg",
+                  "path": null,
+                  "size": 52.01,
+                  "width": 500,
+                  "height": 336
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_p1_a70dc127df.jpg",
+                  "hash": "thumbnail_p1_a70dc127df",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_p1.jpg",
+                  "path": null,
+                  "size": 11.94,
+                  "width": 232,
+                  "height": 156
+                }
+              },
+              "hash": "p1_a70dc127df",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 107.85,
+              "url": "/uploads/p1_a70dc127df.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T09:05:42.448Z",
+              "updatedAt": "2024-10-09T09:05:42.448Z"
+            }
+          },
+          {
+            "id": 935,
+            "attributes": {
+              "name": "2_10.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 625,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_2_10_3844253d72.jpg",
+                  "hash": "small_2_10_3844253d72",
+                  "mime": "image/jpeg",
+                  "name": "small_2_10.jpg",
+                  "path": null,
+                  "size": 32.75,
+                  "width": 500,
+                  "height": 313
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_2_10_3844253d72.jpg",
+                  "hash": "medium_2_10_3844253d72",
+                  "mime": "image/jpeg",
+                  "name": "medium_2_10.jpg",
+                  "path": null,
+                  "size": 75.76,
+                  "width": 750,
+                  "height": 469
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_2_10_3844253d72.jpg",
+                  "hash": "thumbnail_2_10_3844253d72",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_2_10.jpg",
+                  "path": null,
+                  "size": 8.27,
+                  "width": 245,
+                  "height": 153
+                }
+              },
+              "hash": "2_10_3844253d72",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 138.5,
+              "url": "/uploads/2_10_3844253d72.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T09:05:42.473Z",
+              "updatedAt": "2024-10-09T09:05:42.473Z"
+            }
+          },
+          {
+            "id": 928,
+            "attributes": {
+              "name": "p5.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 779,
+              "height": 788,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_p5_23b5bddcc4.jpg",
+                  "hash": "small_p5_23b5bddcc4",
+                  "mime": "image/jpeg",
+                  "name": "small_p5.jpg",
+                  "path": null,
+                  "size": 59.03,
+                  "width": 494,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_p5_23b5bddcc4.jpg",
+                  "hash": "medium_p5_23b5bddcc4",
+                  "mime": "image/jpeg",
+                  "name": "medium_p5.jpg",
+                  "path": null,
+                  "size": 114.9,
+                  "width": 741,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_p5_23b5bddcc4.jpg",
+                  "hash": "thumbnail_p5_23b5bddcc4",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_p5.jpg",
+                  "path": null,
+                  "size": 7.83,
+                  "width": 154,
+                  "height": 156
+                }
+              },
+              "hash": "p5_23b5bddcc4",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 133.75,
+              "url": "/uploads/p5_23b5bddcc4.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T08:53:43.357Z",
+              "updatedAt": "2024-10-09T08:53:43.357Z"
+            }
+          },
+          {
+            "id": 929,
+            "attributes": {
+              "name": "ung-dung-dien-mat-troi-1.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 860,
+              "height": 573,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_ung_dung_dien_mat_troi_1_6d59429ae7.jpg",
+                  "hash": "small_ung_dung_dien_mat_troi_1_6d59429ae7",
+                  "mime": "image/jpeg",
+                  "name": "small_ung-dung-dien-mat-troi-1.jpg",
+                  "path": null,
+                  "size": 58.71,
+                  "width": 500,
+                  "height": 333
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_ung_dung_dien_mat_troi_1_6d59429ae7.jpg",
+                  "hash": "medium_ung_dung_dien_mat_troi_1_6d59429ae7",
+                  "mime": "image/jpeg",
+                  "name": "medium_ung-dung-dien-mat-troi-1.jpg",
+                  "path": null,
+                  "size": 115.08,
+                  "width": 750,
+                  "height": 500
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_ung_dung_dien_mat_troi_1_6d59429ae7.jpg",
+                  "hash": "thumbnail_ung_dung_dien_mat_troi_1_6d59429ae7",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_ung-dung-dien-mat-troi-1.jpg",
+                  "path": null,
+                  "size": 13.73,
+                  "width": 235,
+                  "height": 156
+                }
+              },
+              "hash": "ung_dung_dien_mat_troi_1_6d59429ae7",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 136.82,
+              "url": "/uploads/ung_dung_dien_mat_troi_1_6d59429ae7.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T08:53:43.531Z",
+              "updatedAt": "2024-10-09T08:53:43.531Z"
+            }
+          },
+          {
+            "id": 930,
+            "attributes": {
+              "name": "p17.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 754,
+              "height": 664,
+              "formats": {
+                "small": {
+                  "ext": ".jpg",
+                  "url": "/uploads/small_p17_3f5ec35474.jpg",
+                  "hash": "small_p17_3f5ec35474",
+                  "mime": "image/jpeg",
+                  "name": "small_p17.jpg",
+                  "path": null,
+                  "size": 83.47,
+                  "width": 500,
+                  "height": 440
+                },
+                "medium": {
+                  "ext": ".jpg",
+                  "url": "/uploads/medium_p17_3f5ec35474.jpg",
+                  "hash": "medium_p17_3f5ec35474",
+                  "mime": "image/jpeg",
+                  "name": "medium_p17.jpg",
+                  "path": null,
+                  "size": 189.43,
+                  "width": 750,
+                  "height": 660
+                },
+                "thumbnail": {
+                  "ext": ".jpg",
+                  "url": "/uploads/thumbnail_p17_3f5ec35474.jpg",
+                  "hash": "thumbnail_p17_3f5ec35474",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_p17.jpg",
+                  "path": null,
+                  "size": 11.43,
+                  "width": 177,
+                  "height": 156
+                }
+              },
+              "hash": "p17_3f5ec35474",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 201.69,
+              "url": "/uploads/p17_3f5ec35474.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T08:53:46.964Z",
+              "updatedAt": "2024-10-09T08:53:46.964Z"
+            }
+          },
+          {
+            "id": 931,
+            "attributes": {
+              "name": "3_1.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 800,
+              "height": 795,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_3_1_0570c9dd0d.png",
+                  "hash": "small_3_1_0570c9dd0d",
+                  "mime": "image/png",
+                  "name": "small_3_1.png",
+                  "path": null,
+                  "size": 563.77,
+                  "width": 500,
+                  "height": 497
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_3_1_0570c9dd0d.png",
+                  "hash": "medium_3_1_0570c9dd0d",
+                  "mime": "image/png",
+                  "name": "medium_3_1.png",
+                  "path": null,
+                  "size": 1204.24,
+                  "width": 750,
+                  "height": 745
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_3_1_0570c9dd0d.png",
+                  "hash": "thumbnail_3_1_0570c9dd0d",
+                  "mime": "image/png",
+                  "name": "thumbnail_3_1.png",
+                  "path": null,
+                  "size": 60.04,
+                  "width": 157,
+                  "height": 156
+                }
+              },
+              "hash": "3_1_0570c9dd0d",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 346.1,
+              "url": "/uploads/3_1_0570c9dd0d.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T08:53:48.258Z",
+              "updatedAt": "2024-10-09T08:53:48.258Z"
+            }
+          },
+          {
+            "id": 932,
+            "attributes": {
+              "name": "1.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 852,
+              "height": 852,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_1_bf65f08923.png",
+                  "hash": "small_1_bf65f08923",
+                  "mime": "image/png",
+                  "name": "small_1.png",
+                  "path": null,
+                  "size": 648.45,
+                  "width": 500,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_1_bf65f08923.png",
+                  "hash": "medium_1_bf65f08923",
+                  "mime": "image/png",
+                  "name": "medium_1.png",
+                  "path": null,
+                  "size": 1391.86,
+                  "width": 750,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_1_bf65f08923.png",
+                  "hash": "thumbnail_1_bf65f08923",
+                  "mime": "image/png",
+                  "name": "thumbnail_1.png",
+                  "path": null,
+                  "size": 67.21,
+                  "width": 156,
+                  "height": 156
+                }
+              },
+              "hash": "1_bf65f08923",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 423.37,
+              "url": "/uploads/1_bf65f08923.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T08:53:57.053Z",
+              "updatedAt": "2024-10-09T08:53:57.053Z"
+            }
+          }
+        ]
+      },
+      "highlight": [
+        {
+          "id": 37,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 38,
+          "title": "Pipe size (mm)",
+          "value": "76.10"
+        },
+        {
+          "id": 39,
+          "title": "Weight (kg)",
+          "value": "7.80 - 13.50"
+        },
+        {
+          "id": 70,
+          "title": "Steel grade",
+          "value": "STK400/500; SS400; Q345"
+        },
+        {
+          "id": 71,
+          "title": "Surface",
+          "value": "Hot-dip galvanized"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 19,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 20,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 21,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 19,
+          "block_title": "TF-1000"
+        },
+        {
+          "id": 49,
+          "block_title": "TF-1500"
+        },
+        {
+          "id": 50,
+          "block_title": "TF-2000"
+        }
+      ],
+      "main_image": {
+        "data": {
+          "id": 936,
+          "attributes": {
+            "name": "f-series-thread-screw-main.png",
+            "alternativeText": null,
+            "caption": null,
+            "width": 412,
+            "height": 3175,
+            "formats": {
+              "large": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/large_f_series_thread_screw_main_10528f1e79.png",
+                "hash": "large_f_series_thread_screw_main_10528f1e79",
+                "mime": "image/png",
+                "name": "large_f-series-thread-screw-main.png",
+                "path": null,
+                "size": 37.67,
+                "width": 130,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/small_f_series_thread_screw_main_10528f1e79.png",
+                "hash": "small_f_series_thread_screw_main_10528f1e79",
+                "mime": "image/png",
+                "name": "small_f-series-thread-screw-main.png",
+                "path": null,
+                "size": 14.15,
+                "width": 65,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/medium_f_series_thread_screw_main_10528f1e79.png",
+                "hash": "medium_f_series_thread_screw_main_10528f1e79",
+                "mime": "image/png",
+                "name": "medium_f-series-thread-screw-main.png",
+                "path": null,
+                "size": 26.14,
+                "width": 97,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/images/strapi/uploads/thumbnail_f_series_thread_screw_main_10528f1e79.png",
+                "hash": "thumbnail_f_series_thread_screw_main_10528f1e79",
+                "mime": "image/png",
+                "name": "thumbnail_f-series-thread-screw-main.png",
+                "path": null,
+                "size": 2.72,
+                "width": 20,
+                "height": 156
+              }
+            },
+            "hash": "f_series_thread_screw_main_10528f1e79",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 40.21,
+            "url": "/images/strapi/uploads/f_series_thread_screw_main_10528f1e79.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-09T09:06:58.036Z",
+            "updatedAt": "2024-10-09T09:06:58.036Z"
+          }
+        }
+      },
+      "specifications_image": {
+        "data": [
+          {
+            "id": 937,
+            "attributes": {
+              "name": "f-series-thread-screw-connect-head_3.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 838,
+              "height": 838,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_f_series_thread_screw_connect_head_3_5492d1e9cf.png",
+                  "hash": "small_f_series_thread_screw_connect_head_3_5492d1e9cf",
+                  "mime": "image/png",
+                  "name": "small_f-series-thread-screw-connect-head_3.png",
+                  "path": null,
+                  "size": 101.74,
+                  "width": 500,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_f_series_thread_screw_connect_head_3_5492d1e9cf.png",
+                  "hash": "medium_f_series_thread_screw_connect_head_3_5492d1e9cf",
+                  "mime": "image/png",
+                  "name": "medium_f-series-thread-screw-connect-head_3.png",
+                  "path": null,
+                  "size": 203.74,
+                  "width": 750,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_f_series_thread_screw_connect_head_3_5492d1e9cf.png",
+                  "hash": "thumbnail_f_series_thread_screw_connect_head_3_5492d1e9cf",
+                  "mime": "image/png",
+                  "name": "thumbnail_f-series-thread-screw-connect-head_3.png",
+                  "path": null,
+                  "size": 16.88,
+                  "width": 156,
+                  "height": 156
+                }
+              },
+              "hash": "f_series_thread_screw_connect_head_3_5492d1e9cf",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 40.59,
+              "url": "/uploads/f_series_thread_screw_connect_head_3_5492d1e9cf.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T09:07:15.700Z",
+              "updatedAt": "2024-10-09T09:07:15.700Z"
+            }
+          },
+          {
+            "id": 938,
+            "attributes": {
+              "name": "f-series-thread-screw-connect-head_2.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 838,
+              "height": 838,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_f_series_thread_screw_connect_head_2_9b2be8696c.png",
+                  "hash": "small_f_series_thread_screw_connect_head_2_9b2be8696c",
+                  "mime": "image/png",
+                  "name": "small_f-series-thread-screw-connect-head_2.png",
+                  "path": null,
+                  "size": 104.66,
+                  "width": 500,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_f_series_thread_screw_connect_head_2_9b2be8696c.png",
+                  "hash": "medium_f_series_thread_screw_connect_head_2_9b2be8696c",
+                  "mime": "image/png",
+                  "name": "medium_f-series-thread-screw-connect-head_2.png",
+                  "path": null,
+                  "size": 209.35,
+                  "width": 750,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_f_series_thread_screw_connect_head_2_9b2be8696c.png",
+                  "hash": "thumbnail_f_series_thread_screw_connect_head_2_9b2be8696c",
+                  "mime": "image/png",
+                  "name": "thumbnail_f-series-thread-screw-connect-head_2.png",
+                  "path": null,
+                  "size": 17.28,
+                  "width": 156,
+                  "height": 156
+                }
+              },
+              "hash": "f_series_thread_screw_connect_head_2_9b2be8696c",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 43.66,
+              "url": "/uploads/f_series_thread_screw_connect_head_2_9b2be8696c.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T09:07:15.715Z",
+              "updatedAt": "2024-10-09T09:07:15.715Z"
+            }
+          },
+          {
+            "id": 939,
+            "attributes": {
+              "name": "f-series-thread-screw-connect-head_1.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 838,
+              "height": 838,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_f_series_thread_screw_connect_head_1_d06495bb4a.png",
+                  "hash": "small_f_series_thread_screw_connect_head_1_d06495bb4a",
+                  "mime": "image/png",
+                  "name": "small_f-series-thread-screw-connect-head_1.png",
+                  "path": null,
+                  "size": 115.12,
+                  "width": 500,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_f_series_thread_screw_connect_head_1_d06495bb4a.png",
+                  "hash": "medium_f_series_thread_screw_connect_head_1_d06495bb4a",
+                  "mime": "image/png",
+                  "name": "medium_f-series-thread-screw-connect-head_1.png",
+                  "path": null,
+                  "size": 231.92,
+                  "width": 750,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_f_series_thread_screw_connect_head_1_d06495bb4a.png",
+                  "hash": "thumbnail_f_series_thread_screw_connect_head_1_d06495bb4a",
+                  "mime": "image/png",
+                  "name": "thumbnail_f-series-thread-screw-connect-head_1.png",
+                  "path": null,
+                  "size": 18.21,
+                  "width": 156,
+                  "height": 156
+                }
+              },
+              "hash": "f_series_thread_screw_connect_head_1_d06495bb4a",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 54.73,
+              "url": "/uploads/f_series_thread_screw_connect_head_1_d06495bb4a.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2024-10-09T09:07:15.736Z",
+              "updatedAt": "2024-10-09T09:07:15.736Z"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 134374,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "M-series Threaded Screw anchor is designed for circle head or hexagonal, with one or two threads to attach additional connecting head accessories support frame system, helping to install \n omponents for many types of civil and industrial industries that\nare as diverse as fences, slides, floor supports, advertising signs...",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:46:22.858Z",
+      "updatedAt": "2024-10-10T09:11:25.506Z",
+      "publishedAt": "2024-09-16T14:46:24.524Z",
+      "slug": "thread-screw-m-series",
+      "title": "Thread Screw | M Series",
+      "sub_category": "thread-screws",
+      "feature_image": {
+        "data": {
+          "id": 946,
+          "attributes": {
+            "name": "m-series-thread-screw-1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 250,
+            "height": 166,
+            "formats": {
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_m_series_thread_screw_1_96dafed7a6.jpg",
+                "hash": "thumbnail_m_series_thread_screw_1_96dafed7a6",
+                "mime": "image/jpeg",
+                "name": "thumbnail_m-series-thread-screw-1.jpg",
+                "path": null,
+                "size": 12.27,
+                "width": 235,
+                "height": 156
+              }
+            },
+            "hash": "m_series_thread_screw_1_96dafed7a6",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 13.59,
+            "url": "/images/strapi/uploads/m_series_thread_screw_1_96dafed7a6.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:11:21.144Z",
+            "updatedAt": "2024-10-10T09:11:21.144Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 43,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 44,
+          "title": "Pipe size (mm)",
+          "value": "76.10"
+        },
+        {
+          "id": 45,
+          "title": "Weight (kg)",
+          "value": "8.20 - 14.00"
+        },
+        {
+          "id": 74,
+          "title": "Steel grade",
+          "value": "STK400/500; SS400; Q345"
+        },
+        {
+          "id": 75,
+          "title": "Surface",
+          "value": "Hot-dip galvanized"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 25,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 26,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 27,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 25,
+          "block_title": "Product Details"
+        },
+        {
+          "id": 26,
+          "block_title": "Ship to"
+        },
+        {
+          "id": 27,
+          "block_title": "Lead time"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134375,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "U-series threaded screw anchor is specially designed with a U-shaped head to support wooden beams of different sizes and\nis the best choice for quickly installing vertical and horizontal wooden beams for civil projects, houses, fences, pedestrian bridges...",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:46:35.949Z",
+      "updatedAt": "2024-10-17T10:39:56.292Z",
+      "publishedAt": "2024-09-16T14:46:37.795Z",
+      "slug": "thread-screw-u-series",
+      "title": "Thread Screw | U Series",
+      "sub_category": "thread-screws",
+      "feature_image": {
+        "data": {
+          "id": 948,
+          "attributes": {
+            "name": "u-series-thread-screw-2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 534,
+            "height": 534,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_u_series_thread_screw_2_dc28d7486d.jpg",
+                "hash": "small_u_series_thread_screw_2_dc28d7486d",
+                "mime": "image/jpeg",
+                "name": "small_u-series-thread-screw-2.jpg",
+                "path": null,
+                "size": 70.76,
+                "width": 500,
+                "height": 500
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_u_series_thread_screw_2_dc28d7486d.jpg",
+                "hash": "thumbnail_u_series_thread_screw_2_dc28d7486d",
+                "mime": "image/jpeg",
+                "name": "thumbnail_u-series-thread-screw-2.jpg",
+                "path": null,
+                "size": 7.34,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "u_series_thread_screw_2_dc28d7486d",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 80.79,
+            "url": "/images/strapi/uploads/u_series_thread_screw_2_dc28d7486d.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-17T10:39:52.346Z",
+            "updatedAt": "2024-10-17T10:39:52.346Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 46,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 47,
+          "title": "Pipe size (mm)",
+          "value": "76.10"
+        },
+        {
+          "id": 48,
+          "title": "Weight (kg)",
+          "value": "8.30 - 14.00"
+        },
+        {
+          "id": 76,
+          "title": "Steel grade",
+          "value": "STK400/500; SS400; Q345"
+        },
+        {
+          "id": 77,
+          "title": "Surface",
+          "value": "Hot-dip galvanized"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 28,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 29,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 30,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 28,
+          "block_title": "Product Details"
+        },
+        {
+          "id": 29,
+          "block_title": "Ship to"
+        },
+        {
+          "id": 30,
+          "block_title": "Lead time"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134376,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "F-series Threaded Screws with spiral wings is a professional ground screw product, designed with wide flat spiral wings, welded continuously or at 2-3 points along the entire length of the screw pipe to increase the adhesion to the construction surface, reducing settlement due to the wide distribution of load in soft soil, sandy soil with silt, and muddy soil. Keeping the advantages of the F-series threaded screws, the product helps to install quickly, with fewer accessories, and at an optimal cost, suitable for many types of solar panel support, guardrails, and traffic fence projects with a service life of up to 30 years",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:47:35.358Z",
+      "updatedAt": "2024-10-10T09:10:11.971Z",
+      "publishedAt": "2024-09-16T14:49:03.526Z",
+      "slug": "helical-screw-f-series",
+      "title": "Helical Screw | F Series",
+      "sub_category": "helical-screws",
+      "feature_image": {
+        "data": {
+          "id": 945,
+          "attributes": {
+            "name": "f-series-helical-screw-4.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 425,
+            "height": 365,
+            "formats": {
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_f_series_helical_screw_4_e5c3f91160.jpg",
+                "hash": "thumbnail_f_series_helical_screw_4_e5c3f91160",
+                "mime": "image/jpeg",
+                "name": "thumbnail_f-series-helical-screw-4.jpg",
+                "path": null,
+                "size": 9.62,
+                "width": 182,
+                "height": 156
+              }
+            },
+            "hash": "f_series_helical_screw_4_e5c3f91160",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 49.53,
+            "url": "/images/strapi/uploads/f_series_helical_screw_4_e5c3f91160.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:10:08.572Z",
+            "updatedAt": "2024-10-10T09:10:08.572Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 49,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 50,
+          "title": "Pipe size (mm)",
+          "value": "76.10"
+        },
+        {
+          "id": 51,
+          "title": "Weight (kg)",
+          "value": "10.00"
+        },
+        {
+          "id": 78,
+          "title": "Steel grade",
+          "value": "STK400/500; SS400; Q345"
+        },
+        {
+          "id": 79,
+          "title": "Surface",
+          "value": "Hot-dip galvanized"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 31,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 32,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 33,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 31,
+          "block_title": "Product Details"
+        },
+        {
+          "id": 32,
+          "block_title": "Ship to"
+        },
+        {
+          "id": 33,
+          "block_title": "Lead time"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134377,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "G-series - helical screw spiral wing anchor is a combination of designed tube head open design, bolt type G welded screw anchor from 3 to 4, and spiral wing climbing body. Therefore, the product makes installation easy height is adjustable on soft ground. Steel material SS400, Q235, and Q345n not only has high bearing capacity and surface protection corrosion resistance is increased\nthanks to the hot-dip galvanizing process the life span of the  project is up to 30 years.",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:50:57.035Z",
+      "updatedAt": "2024-10-10T09:09:37.737Z",
+      "publishedAt": "2024-09-16T14:50:59.234Z",
+      "slug": "helical-screw-g-series",
+      "title": "Helical Screw | G Series",
+      "sub_category": "helical-screws",
+      "feature_image": {
+        "data": {
+          "id": 944,
+          "attributes": {
+            "name": "g-series-helical-screw-3.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 800,
+            "height": 800,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_g_series_helical_screw_3_e7ebf50d7d.jpg",
+                "hash": "small_g_series_helical_screw_3_e7ebf50d7d",
+                "mime": "image/jpeg",
+                "name": "small_g-series-helical-screw-3.jpg",
+                "path": null,
+                "size": 74.3,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_g_series_helical_screw_3_e7ebf50d7d.jpg",
+                "hash": "medium_g_series_helical_screw_3_e7ebf50d7d",
+                "mime": "image/jpeg",
+                "name": "medium_g-series-helical-screw-3.jpg",
+                "path": null,
+                "size": 135.92,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_g_series_helical_screw_3_e7ebf50d7d.jpg",
+                "hash": "thumbnail_g_series_helical_screw_3_e7ebf50d7d",
+                "mime": "image/jpeg",
+                "name": "thumbnail_g-series-helical-screw-3.jpg",
+                "path": null,
+                "size": 8.99,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "g_series_helical_screw_3_e7ebf50d7d",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 161.64,
+            "url": "/images/strapi/uploads/g_series_helical_screw_3_e7ebf50d7d.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:09:34.587Z",
+            "updatedAt": "2024-10-10T09:09:34.587Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 52,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 53,
+          "title": "Height (mm)",
+          "value": "Min 1000"
+        },
+        {
+          "id": 54,
+          "title": "Standard",
+          "value": "Q235/Q345/OTHER"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 34,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 35,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 36,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 34,
+          "block_title": "Product Details"
+        },
+        {
+          "id": 35,
+          "block_title": "Ship to"
+        },
+        {
+          "id": 36,
+          "block_title": "Lead time"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134378,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "M-series Helical Screw with spiral wings type M is designed with a flange head with threads to connect a variety of different support frames; the screw is pointed and welded with wide spiral wings, so it is used as a support system in places with weak soil to prevent sinking effectively. The threaded screw with spiral wings M-series is not only a quality ground screw product but also demonstrates professionalism and superiority with many advantages such as fast construction time, simple machinery, and significantly more aesthetic than traditional concrete pile solutions.",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:51:17.135Z",
+      "updatedAt": "2024-10-10T09:09:08.464Z",
+      "publishedAt": "2024-09-16T14:51:18.733Z",
+      "slug": "helical-screw-m-series",
+      "title": "Helical Screw | M Series",
+      "sub_category": "helical-screws",
+      "feature_image": {
+        "data": {
+          "id": 943,
+          "attributes": {
+            "name": "m-series-helical-screw-2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 667,
+            "height": 697,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_m_series_helical_screw_2_4f1a600e6a.jpg",
+                "hash": "small_m_series_helical_screw_2_4f1a600e6a",
+                "mime": "image/jpeg",
+                "name": "small_m-series-helical-screw-2.jpg",
+                "path": null,
+                "size": 55.35,
+                "width": 478,
+                "height": 500
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_m_series_helical_screw_2_4f1a600e6a.jpg",
+                "hash": "thumbnail_m_series_helical_screw_2_4f1a600e6a",
+                "mime": "image/jpeg",
+                "name": "thumbnail_m-series-helical-screw-2.jpg",
+                "path": null,
+                "size": 8.98,
+                "width": 149,
+                "height": 156
+              }
+            },
+            "hash": "m_series_helical_screw_2_4f1a600e6a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 98.58,
+            "url": "/images/strapi/uploads/m_series_helical_screw_2_4f1a600e6a.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:09:00.650Z",
+            "updatedAt": "2024-10-10T09:09:00.650Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 55,
+          "title": "Weight (KGS)",
+          "value": "Min 4.42"
+        },
+        {
+          "id": 56,
+          "title": "Height (mm)",
+          "value": "Min 1000"
+        },
+        {
+          "id": 57,
+          "title": "Standard",
+          "value": "Q235/Q345/OTHER"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 37,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 38,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 39,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 37,
+          "block_title": "Product Details"
+        },
+        {
+          "id": 38,
+          "block_title": "Ship to"
+        },
+        {
+          "id": 39,
+          "block_title": "Lead time"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134379,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "U-series Helical Screw with spiral wings type U is a specially designed solution for installing wooden beams for civil works such ashouses, garden fences, garages, and civil warehouses. The hot-dip galvanized surface provides excellent corrosion resistance, extending the service life of the project up to 30 years and ensuring the aesthetics of your home.",
+      "bestseller": false,
+      "createdAt": "2024-09-16T14:51:30.286Z",
+      "updatedAt": "2024-10-10T09:08:19.432Z",
+      "publishedAt": "2024-09-16T14:51:32.061Z",
+      "slug": "helical-screw-u-series",
+      "title": "Helical Screw | U Series",
+      "sub_category": "helical-screws",
+      "feature_image": {
+        "data": {
+          "id": 942,
+          "attributes": {
+            "name": "u-series-helical-screw-3.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 656,
+            "height": 755,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_u_series_helical_screw_3_dd9572ce2d.jpg",
+                "hash": "small_u_series_helical_screw_3_dd9572ce2d",
+                "mime": "image/jpeg",
+                "name": "small_u-series-helical-screw-3.jpg",
+                "path": null,
+                "size": 55.78,
+                "width": 434,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_u_series_helical_screw_3_dd9572ce2d.jpg",
+                "hash": "medium_u_series_helical_screw_3_dd9572ce2d",
+                "mime": "image/jpeg",
+                "name": "medium_u-series-helical-screw-3.jpg",
+                "path": null,
+                "size": 107.18,
+                "width": 652,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_u_series_helical_screw_3_dd9572ce2d.jpg",
+                "hash": "thumbnail_u_series_helical_screw_3_dd9572ce2d",
+                "mime": "image/jpeg",
+                "name": "thumbnail_u-series-helical-screw-3.jpg",
+                "path": null,
+                "size": 8.54,
+                "width": 136,
+                "height": 156
+              }
+            },
+            "hash": "u_series_helical_screw_3_dd9572ce2d",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 113.31,
+            "url": "/images/strapi/uploads/u_series_helical_screw_3_dd9572ce2d.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:08:15.770Z",
+            "updatedAt": "2024-10-10T09:08:15.770Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 58,
+          "title": "Weight (KGS)",
+          "value": "Min 4.42"
+        },
+        {
+          "id": 59,
+          "title": "Height (mm)",
+          "value": "Min 1000"
+        },
+        {
+          "id": 60,
+          "title": "Standard",
+          "value": "Q235/Q345/OTHER"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 40,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 41,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 42,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 40,
+          "block_title": "Product Details"
+        },
+        {
+          "id": 41,
+          "block_title": "Ship to"
+        },
+        {
+          "id": 42,
+          "block_title": "Lead time"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134382,
+    "attributes": {
+      "description": "",
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": "G-series Threaded Screw anchor is designed at the open end of\nthe pipe, with three or four additional ecu welded to create a connection point for the upper structural support system, helping to flexibly adjust the height to suit many types of terrain, construction. They are ideal for quick installation on rough terrain, reducing ground surface treatment time and costs, so they are widely used in solar panel racks, fences, pedestrian bridges, etc...",
+      "bestseller": false,
+      "createdAt": "2024-09-16T17:02:33.855Z",
+      "updatedAt": "2024-10-10T09:07:31.738Z",
+      "publishedAt": "2024-09-16T17:03:53.241Z",
+      "slug": "thread-screw-g-series",
+      "title": "Thread Screw | G Series",
+      "sub_category": "thread-screws",
+      "feature_image": {
+        "data": {
+          "id": 941,
+          "attributes": {
+            "name": "g-series-thread-screw-2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 551,
+            "height": 550,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_g_series_thread_screw_2_cb8fbfa31b.jpg",
+                "hash": "small_g_series_thread_screw_2_cb8fbfa31b",
+                "mime": "image/jpeg",
+                "name": "small_g-series-thread-screw-2.jpg",
+                "path": null,
+                "size": 85.64,
+                "width": 500,
+                "height": 499
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_g_series_thread_screw_2_cb8fbfa31b.jpg",
+                "hash": "thumbnail_g_series_thread_screw_2_cb8fbfa31b",
+                "mime": "image/jpeg",
+                "name": "thumbnail_g-series-thread-screw-2.jpg",
+                "path": null,
+                "size": 9.53,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "g_series_thread_screw_2_cb8fbfa31b",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 101.99,
+            "url": "/images/strapi/uploads/g_series_thread_screw_2_cb8fbfa31b.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:07:27.212Z",
+            "updatedAt": "2024-10-10T09:07:27.212Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 67,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 68,
+          "title": "Pipe size (mm)",
+          "value": "76.10"
+        },
+        {
+          "id": 72,
+          "title": "Weight (kg)",
+          "value": "7.40 - 13.10"
+        },
+        {
+          "id": 69,
+          "title": "Steel grade",
+          "value": "STK400/500; SS400; Q345"
+        },
+        {
+          "id": 73,
+          "title": "Surface",
+          "value": "Hot-dip galvanized"
+        }
+      ],
+      "price_range": [
+        {
+          "id": 49,
+          "tilte": "USD 120",
+          "value": "100 pieces (Min. Order)"
+        },
+        {
+          "id": 50,
+          "tilte": "USD 115",
+          "value": "100 - 499 pieces"
+        },
+        {
+          "id": 51,
+          "tilte": "USD 100",
+          "value": "≥ 500 pieces"
+        }
+      ],
+      "datasheet": [
+        {
+          "id": 51,
+          "block_title": "TG-1000"
+        },
+        {
+          "id": 52,
+          "block_title": "TG-1500"
+        },
+        {
+          "id": 53,
+          "block_title": "TG-2000"
+        }
+      ],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134383,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:53:21.840Z",
+      "updatedAt": "2024-10-05T05:24:37.060Z",
+      "publishedAt": "2024-10-04T06:53:31.102Z",
+      "slug": "phenolic-plywood",
+      "title": "Phenolic plywood",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 908,
+          "attributes": {
+            "name": "9_1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 800,
+            "height": 800,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_9_1_7773a4de34.jpg",
+                "hash": "small_9_1_7773a4de34",
+                "mime": "image/jpeg",
+                "name": "small_9_1.jpg",
+                "path": null,
+                "size": 43.24,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_9_1_7773a4de34.jpg",
+                "hash": "medium_9_1_7773a4de34",
+                "mime": "image/jpeg",
+                "name": "medium_9_1.jpg",
+                "path": null,
+                "size": 91.57,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_9_1_7773a4de34.jpg",
+                "hash": "thumbnail_9_1_7773a4de34",
+                "mime": "image/jpeg",
+                "name": "thumbnail_9_1.jpg",
+                "path": null,
+                "size": 4.35,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "9_1_7773a4de34",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 100.9,
+            "url": "/images/strapi/uploads/9_1_7773a4de34.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T05:24:32.070Z",
+            "updatedAt": "2024-10-05T05:24:32.070Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 102,
+          "title": "Material",
+          "value": "Artificial/natural veneer, Melamine paper"
+        },
+        {
+          "id": 103,
+          "title": "Color",
+          "value": "Black, brown, or on demand"
+        },
+        {
+          "id": 104,
+          "title": "Thickness",
+          "value": "12mm/16mm/18mm"
+        },
+        {
+          "id": 105,
+          "title": "Specifications",
+          "value": "1220x2440mm/1250x2550mm/on demand"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134384,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:54:01.428Z",
+      "updatedAt": "2024-10-06T00:08:12.571Z",
+      "publishedAt": "2024-10-04T06:54:21.255Z",
+      "slug": "birch-plywood",
+      "title": "Birch plywood",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 923,
+          "attributes": {
+            "name": "3d-rendering-beautiful-luxury-bedroom-suite-hotel-with-tv-shelf.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 2015,
+            "height": 2016,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/large_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468.jpg",
+                "hash": "large_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468",
+                "mime": "image/jpeg",
+                "name": "large_3d-rendering-beautiful-luxury-bedroom-suite-hotel-with-tv-shelf.jpg",
+                "path": null,
+                "size": 147.55,
+                "width": 1000,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468.jpg",
+                "hash": "small_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468",
+                "mime": "image/jpeg",
+                "name": "small_3d-rendering-beautiful-luxury-bedroom-suite-hotel-with-tv-shelf.jpg",
+                "path": null,
+                "size": 38.81,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468.jpg",
+                "hash": "medium_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468",
+                "mime": "image/jpeg",
+                "name": "medium_3d-rendering-beautiful-luxury-bedroom-suite-hotel-with-tv-shelf.jpg",
+                "path": null,
+                "size": 83.14,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468.jpg",
+                "hash": "thumbnail_3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468",
+                "mime": "image/jpeg",
+                "name": "thumbnail_3d-rendering-beautiful-luxury-bedroom-suite-hotel-with-tv-shelf.jpg",
+                "path": null,
+                "size": 5.45,
+                "width": 155,
+                "height": 156
+              }
+            },
+            "hash": "3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 604.29,
+            "url": "/images/strapi/uploads/3d_rendering_beautiful_luxury_bedroom_suite_hotel_with_tv_shelf_d791a55468.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-06T00:08:02.553Z",
+            "updatedAt": "2024-10-06T00:08:02.553Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 106,
+          "title": "Material",
+          "value": "Poplar/or as required"
+        },
+        {
+          "id": 107,
+          "title": "Color",
+          "value": "As required"
+        },
+        {
+          "id": 108,
+          "title": "Thickness",
+          "value": "2-25mm"
+        },
+        {
+          "id": 109,
+          "title": "Specifications",
+          "value": "1220 x 2440 x 2-40mm"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134385,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:54:45.490Z",
+      "updatedAt": "2024-10-06T00:05:29.127Z",
+      "publishedAt": "2024-10-04T06:54:49.615Z",
+      "slug": "melamine-plywood",
+      "title": "Melamine plywood",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 922,
+          "attributes": {
+            "name": "living-area-modern-contemporary-style-with-wooden-window-frame-sheer-with-grey-furniture-tone-3d-rendering.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 2716,
+            "height": 2717,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/large_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c.jpg",
+                "hash": "large_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c",
+                "mime": "image/jpeg",
+                "name": "large_living-area-modern-contemporary-style-with-wooden-window-frame-sheer-with-grey-furniture-tone-3d-rendering.jpg",
+                "path": null,
+                "size": 126.96,
+                "width": 1000,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c.jpg",
+                "hash": "small_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c",
+                "mime": "image/jpeg",
+                "name": "small_living-area-modern-contemporary-style-with-wooden-window-frame-sheer-with-grey-furniture-tone-3d-rendering.jpg",
+                "path": null,
+                "size": 36.18,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c.jpg",
+                "hash": "medium_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c",
+                "mime": "image/jpeg",
+                "name": "medium_living-area-modern-contemporary-style-with-wooden-window-frame-sheer-with-grey-furniture-tone-3d-rendering.jpg",
+                "path": null,
+                "size": 74.2,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c.jpg",
+                "hash": "thumbnail_living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c",
+                "mime": "image/jpeg",
+                "name": "thumbnail_living-area-modern-contemporary-style-with-wooden-window-frame-sheer-with-grey-furniture-tone-3d-rendering.jpg",
+                "path": null,
+                "size": 5.22,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 944.23,
+            "url": "/images/strapi/uploads/living_area_modern_contemporary_style_with_wooden_window_frame_sheer_with_grey_furniture_tone_3d_rendering_028784459c.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-06T00:05:19.285Z",
+            "updatedAt": "2024-10-06T00:05:19.285Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 110,
+          "title": "Material",
+          "value": "Poplar/or as required"
+        },
+        {
+          "id": 111,
+          "title": "Color",
+          "value": "as required"
+        },
+        {
+          "id": 112,
+          "title": "Thickness",
+          "value": "2-25mm"
+        },
+        {
+          "id": 113,
+          "title": "Specifications",
+          "value": "1220 x 2440 x 2-40mm"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134386,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:55:19.463Z",
+      "updatedAt": "2024-10-05T05:29:30.839Z",
+      "publishedAt": "2024-10-04T06:55:56.261Z",
+      "slug": "laminate-plywood",
+      "title": "Laminate plywood",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 911,
+          "attributes": {
+            "name": "living-room-with-couch-table-with-plant-it.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 6000,
+            "height": 6000,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/large_living_room_with_couch_table_with_plant_it_b0b1b4b259.jpg",
+                "hash": "large_living_room_with_couch_table_with_plant_it_b0b1b4b259",
+                "mime": "image/jpeg",
+                "name": "large_living-room-with-couch-table-with-plant-it.jpg",
+                "path": null,
+                "size": 76.93,
+                "width": 1000,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_living_room_with_couch_table_with_plant_it_b0b1b4b259.jpg",
+                "hash": "small_living_room_with_couch_table_with_plant_it_b0b1b4b259",
+                "mime": "image/jpeg",
+                "name": "small_living-room-with-couch-table-with-plant-it.jpg",
+                "path": null,
+                "size": 27.69,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_living_room_with_couch_table_with_plant_it_b0b1b4b259.jpg",
+                "hash": "medium_living_room_with_couch_table_with_plant_it_b0b1b4b259",
+                "mime": "image/jpeg",
+                "name": "medium_living-room-with-couch-table-with-plant-it.jpg",
+                "path": null,
+                "size": 50.58,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_living_room_with_couch_table_with_plant_it_b0b1b4b259.jpg",
+                "hash": "thumbnail_living_room_with_couch_table_with_plant_it_b0b1b4b259",
+                "mime": "image/jpeg",
+                "name": "thumbnail_living-room-with-couch-table-with-plant-it.jpg",
+                "path": null,
+                "size": 4.83,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "living_room_with_couch_table_with_plant_it_b0b1b4b259",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 796.14,
+            "url": "/images/strapi/uploads/living_room_with_couch_table_with_plant_it_b0b1b4b259.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T05:29:18.712Z",
+            "updatedAt": "2024-10-05T05:29:18.712Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 114,
+          "title": "Material",
+          "value": "Poplar/or as required"
+        },
+        {
+          "id": 115,
+          "title": "Humidity",
+          "value": "10%~15%"
+        },
+        {
+          "id": 116,
+          "title": "Thickness",
+          "value": "2-25mm"
+        },
+        {
+          "id": 117,
+          "title": "Specifications",
+          "value": "1220x2440mm, 1250x2500mm, 915x2135mm, on request"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134387,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:55:44.078Z",
+      "updatedAt": "2024-10-06T00:09:51.483Z",
+      "publishedAt": "2024-10-04T06:55:46.562Z",
+      "slug": "veneer-plywood",
+      "title": "Veneer plywood",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 924,
+          "attributes": {
+            "name": "mockup-tv-wall-mounted-with-armchair-living-room-with-white-wall.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 2528,
+            "height": 2527,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/large_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78.jpg",
+                "hash": "large_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78",
+                "mime": "image/jpeg",
+                "name": "large_mockup-tv-wall-mounted-with-armchair-living-room-with-white-wall.jpg",
+                "path": null,
+                "size": 98.87,
+                "width": 1000,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78.jpg",
+                "hash": "small_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78",
+                "mime": "image/jpeg",
+                "name": "small_mockup-tv-wall-mounted-with-armchair-living-room-with-white-wall.jpg",
+                "path": null,
+                "size": 30.53,
+                "width": 500,
+                "height": 499
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78.jpg",
+                "hash": "medium_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78",
+                "mime": "image/jpeg",
+                "name": "medium_mockup-tv-wall-mounted-with-armchair-living-room-with-white-wall.jpg",
+                "path": null,
+                "size": 60.09,
+                "width": 750,
+                "height": 749
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78.jpg",
+                "hash": "thumbnail_mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78",
+                "mime": "image/jpeg",
+                "name": "thumbnail_mockup-tv-wall-mounted-with-armchair-living-room-with-white-wall.jpg",
+                "path": null,
+                "size": 4.73,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 464.11,
+            "url": "/images/strapi/uploads/mockup_tv_wall_mounted_with_armchair_living_room_with_white_wall_843ae34f78.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-06T00:09:42.206Z",
+            "updatedAt": "2024-10-06T00:09:42.206Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 118,
+          "title": "Material",
+          "value": "Positive/pine/or as required"
+        },
+        {
+          "id": 119,
+          "title": "Humidity",
+          "value": "10%~15%"
+        },
+        {
+          "id": 120,
+          "title": "Thickness",
+          "value": "2-25mm"
+        },
+        {
+          "id": 121,
+          "title": "Specifications",
+          "value": "1220x2440mm, 1250x2500mm, 915x2135mm, on request"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134388,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:56:20.270Z",
+      "updatedAt": "2024-10-06T00:11:49.091Z",
+      "publishedAt": "2024-10-04T06:56:22.549Z",
+      "slug": "pvc-plywood",
+      "title": "PVC Plywood",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 925,
+          "attributes": {
+            "name": "office-interior-design-with-wall-plants-wood-industrial-generative-ai.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 3957,
+            "height": 3941,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/large_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d.jpg",
+                "hash": "large_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d",
+                "mime": "image/jpeg",
+                "name": "large_office-interior-design-with-wall-plants-wood-industrial-generative-ai.jpg",
+                "path": null,
+                "size": 155.19,
+                "width": 1000,
+                "height": 996
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d.jpg",
+                "hash": "small_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d",
+                "mime": "image/jpeg",
+                "name": "small_office-interior-design-with-wall-plants-wood-industrial-generative-ai.jpg",
+                "path": null,
+                "size": 48.09,
+                "width": 500,
+                "height": 498
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d.jpg",
+                "hash": "medium_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d",
+                "mime": "image/jpeg",
+                "name": "medium_office-interior-design-with-wall-plants-wood-industrial-generative-ai.jpg",
+                "path": null,
+                "size": 93.36,
+                "width": 750,
+                "height": 747
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d.jpg",
+                "hash": "thumbnail_office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d",
+                "mime": "image/jpeg",
+                "name": "thumbnail_office-interior-design-with-wall-plants-wood-industrial-generative-ai.jpg",
+                "path": null,
+                "size": 7.15,
+                "width": 157,
+                "height": 156
+              }
+            },
+            "hash": "office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 1131.91,
+            "url": "/images/strapi/uploads/office_interior_design_with_wall_plants_wood_industrial_generative_ai_9d4318e54d.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-06T00:11:37.391Z",
+            "updatedAt": "2024-10-06T00:11:37.391Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 122,
+          "title": "Material",
+          "value": "Positive/pine/or as required"
+        },
+        {
+          "id": 123,
+          "title": "Humidity",
+          "value": "10%~15%"
+        },
+        {
+          "id": 124,
+          "title": "Thickness",
+          "value": "7mm 8mm 10mm 11mm 12mm"
+        },
+        {
+          "id": 125,
+          "title": "Specifications",
+          "value": "1220x2440mm, 1250x2500mm, 915x2135mm, on request"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134389,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "plywood",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T06:56:41.070Z",
+      "updatedAt": "2024-10-06T00:25:59.902Z",
+      "publishedAt": "2024-10-04T06:56:43.034Z",
+      "slug": "funiture",
+      "title": "Funiture",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 926,
+          "attributes": {
+            "name": "Ảnh chính_2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 900,
+            "height": 900,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_Anh_chinh_2_1e5b58c90a.jpg",
+                "hash": "small_Anh_chinh_2_1e5b58c90a",
+                "mime": "image/jpeg",
+                "name": "small_Ảnh chính_2.jpg",
+                "path": null,
+                "size": 39.33,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_Anh_chinh_2_1e5b58c90a.jpg",
+                "hash": "medium_Anh_chinh_2_1e5b58c90a",
+                "mime": "image/jpeg",
+                "name": "medium_Ảnh chính_2.jpg",
+                "path": null,
+                "size": 78.21,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_Anh_chinh_2_1e5b58c90a.jpg",
+                "hash": "thumbnail_Anh_chinh_2_1e5b58c90a",
+                "mime": "image/jpeg",
+                "name": "thumbnail_Ảnh chính_2.jpg",
+                "path": null,
+                "size": 5.31,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "Anh_chinh_2_1e5b58c90a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 103.99,
+            "url": "/images/strapi/uploads/Anh_chinh_2_1e5b58c90a.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-06T00:13:10.927Z",
+            "updatedAt": "2024-10-06T00:13:20.417Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 126,
+          "title": "Material",
+          "value": "Eucalyptus, glue, pine wood, oak wood/or as required"
+        },
+        {
+          "id": 127,
+          "title": "Humidity",
+          "value": "10%~12%"
+        },
+        {
+          "id": 128,
+          "title": "Thickness",
+          "value": "2-25mm"
+        },
+        {
+          "id": 129,
+          "title": "Specifications",
+          "value": "1220x2440mm, 1250x2500mm, 915x2135mm"
+        },
+        {
+          "id": 130,
+          "title": "Surface treatment",
+          "value": "paint, laminate..."
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134390,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "rubber",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T07:00:45.113Z",
+      "updatedAt": "2024-10-05T04:20:12.872Z",
+      "publishedAt": "2024-10-04T07:00:47.224Z",
+      "slug": "extruded-rubber",
+      "title": "Extruded Rubber",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 903,
+          "attributes": {
+            "name": "ảnh chính_1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 720,
+            "height": 720,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_anh_chinh_1_77f6b100c2.jpg",
+                "hash": "small_anh_chinh_1_77f6b100c2",
+                "mime": "image/jpeg",
+                "name": "small_ảnh chính_1.jpg",
+                "path": null,
+                "size": 32.67,
+                "width": 500,
+                "height": 500
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_anh_chinh_1_77f6b100c2.jpg",
+                "hash": "thumbnail_anh_chinh_1_77f6b100c2",
+                "mime": "image/jpeg",
+                "name": "thumbnail_ảnh chính_1.jpg",
+                "path": null,
+                "size": 5.66,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "anh_chinh_1_77f6b100c2",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 41.02,
+            "url": "/images/strapi/uploads/anh_chinh_1_77f6b100c2.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T04:19:59.383Z",
+            "updatedAt": "2024-10-05T04:19:59.383Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 80,
+          "title": "Ingredients",
+          "value": "Natural rubber or synthetic rubber"
+        },
+        {
+          "id": 81,
+          "title": "Additives",
+          "value": "Graphite, Sand, Starch, Satalysts, Solorings, Fireproofs"
+        },
+        {
+          "id": 82,
+          "title": "Extrusion temperature",
+          "value": "150 to 250 degrees Celsius"
+        },
+        {
+          "id": 83,
+          "title": "Pressure",
+          "value": "5 to 100 bar"
+        },
+        {
+          "id": 84,
+          "title": "Expression speed ",
+          "value": "1 to 10 meters/minute"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134391,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "rubber",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T07:01:28.273Z",
+      "updatedAt": "2024-10-05T04:25:34.708Z",
+      "publishedAt": "2024-10-04T07:01:30.825Z",
+      "slug": "compression-rubber",
+      "title": "Compression Rubber ",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 904,
+          "attributes": {
+            "name": "H909f1bcf8f0e477faa2db00ce1ecf0e.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 750,
+            "height": 750,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_H909f1bcf8f0e477faa2db00ce1ecf0e_2950bf0008.jpg",
+                "hash": "small_H909f1bcf8f0e477faa2db00ce1ecf0e_2950bf0008",
+                "mime": "image/jpeg",
+                "name": "small_H909f1bcf8f0e477faa2db00ce1ecf0e.jpg",
+                "path": null,
+                "size": 35.1,
+                "width": 500,
+                "height": 500
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_H909f1bcf8f0e477faa2db00ce1ecf0e_2950bf0008.jpg",
+                "hash": "thumbnail_H909f1bcf8f0e477faa2db00ce1ecf0e_2950bf0008",
+                "mime": "image/jpeg",
+                "name": "thumbnail_H909f1bcf8f0e477faa2db00ce1ecf0e.jpg",
+                "path": null,
+                "size": 6.37,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "H909f1bcf8f0e477faa2db00ce1ecf0e_2950bf0008",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 60.29,
+            "url": "/images/strapi/uploads/H909f1bcf8f0e477faa2db00ce1ecf0e_2950bf0008.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T04:21:37.329Z",
+            "updatedAt": "2024-10-05T04:21:37.329Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 85,
+          "title": "Ingredients",
+          "value": "Natural rubber or synthetic rubber"
+        },
+        {
+          "id": 86,
+          "title": "Additives",
+          "value": "Graphite, sand, starch, catalysts, colorings, fireproofs"
+        },
+        {
+          "id": 87,
+          "title": "Extrusion temperature",
+          "value": "150 to 250 degrees Celsius"
+        },
+        {
+          "id": 88,
+          "title": "Pressure",
+          "value": "5 to 100 bar"
+        },
+        {
+          "id": 89,
+          "title": "Expression speed",
+          "value": "1 to 10 meters/minute"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134392,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "rubber",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T07:01:50.596Z",
+      "updatedAt": "2024-10-06T00:31:33.218Z",
+      "publishedAt": "2024-10-04T07:01:52.947Z",
+      "slug": "technical-rubber",
+      "title": "Technical rubber",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 927,
+          "attributes": {
+            "name": "cta-9.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 713,
+            "height": 712,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_cta_9_ff6cbc2a6a.jpg",
+                "hash": "small_cta_9_ff6cbc2a6a",
+                "mime": "image/jpeg",
+                "name": "small_cta-9.jpg",
+                "path": null,
+                "size": 37.15,
+                "width": 500,
+                "height": 499
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_cta_9_ff6cbc2a6a.jpg",
+                "hash": "thumbnail_cta_9_ff6cbc2a6a",
+                "mime": "image/jpeg",
+                "name": "thumbnail_cta-9.jpg",
+                "path": null,
+                "size": 7.36,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "cta_9_ff6cbc2a6a",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 60.86,
+            "url": "/images/strapi/uploads/cta_9_ff6cbc2a6a.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-06T00:31:24.435Z",
+            "updatedAt": "2024-10-06T00:31:24.435Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 90,
+          "title": "Ingredients",
+          "value": "Natural rubber or synthetic rubber"
+        },
+        {
+          "id": 91,
+          "title": "Additives",
+          "value": "Graphite, sand, starch, catalysts, colorings, fireproofs"
+        },
+        {
+          "id": 92,
+          "title": "Extrusion temperature",
+          "value": "150 to 250 degrees Celsius"
+        },
+        {
+          "id": 93,
+          "title": "Pressure",
+          "value": "5 to 100 bar"
+        },
+        {
+          "id": 94,
+          "title": "Expression speed",
+          "value": "1 to 10 meters/minute"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134393,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "rubber",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T07:05:59.767Z",
+      "updatedAt": "2024-10-05T04:27:28.947Z",
+      "publishedAt": "2024-10-04T07:06:09.542Z",
+      "slug": "silicon",
+      "title": "Silicon",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 906,
+          "attributes": {
+            "name": "ảnh chính.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 720,
+            "height": 720,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_anh_chinh_fa5ee2e914.jpg",
+                "hash": "small_anh_chinh_fa5ee2e914",
+                "mime": "image/jpeg",
+                "name": "small_ảnh chính.jpg",
+                "path": null,
+                "size": 29.28,
+                "width": 500,
+                "height": 500
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_anh_chinh_fa5ee2e914.jpg",
+                "hash": "thumbnail_anh_chinh_fa5ee2e914",
+                "mime": "image/jpeg",
+                "name": "thumbnail_ảnh chính.jpg",
+                "path": null,
+                "size": 5.21,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "anh_chinh_fa5ee2e914",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 47.56,
+            "url": "/images/strapi/uploads/anh_chinh_fa5ee2e914.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T04:23:28.001Z",
+            "updatedAt": "2024-10-05T04:23:28.001Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 95,
+          "title": "Sampling",
+          "value": "Silicon is extruded or cast into patterns with shapes and clicks the desired ruler."
+        },
+        {
+          "id": 96,
+          "title": "Heat resistance",
+          "value": "Above 1000 degrees celsius"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134394,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "rubber",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-04T07:07:52.652Z",
+      "updatedAt": "2024-10-05T04:28:36.466Z",
+      "publishedAt": "2024-10-04T07:08:06.967Z",
+      "slug": "tape-eva-foarm-film",
+      "title": "Tape - Eva - Foarm - Film",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 907,
+          "attributes": {
+            "name": "ảnh chính 2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 750,
+            "height": 750,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_anh_chinh_2_9a3c5bed7c.jpg",
+                "hash": "small_anh_chinh_2_9a3c5bed7c",
+                "mime": "image/jpeg",
+                "name": "small_ảnh chính 2.jpg",
+                "path": null,
+                "size": 56.62,
+                "width": 500,
+                "height": 500
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_anh_chinh_2_9a3c5bed7c.jpg",
+                "hash": "thumbnail_anh_chinh_2_9a3c5bed7c",
+                "mime": "image/jpeg",
+                "name": "thumbnail_ảnh chính 2.jpg",
+                "path": null,
+                "size": 7.9,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "anh_chinh_2_9a3c5bed7c",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 104.33,
+            "url": "/images/strapi/uploads/anh_chinh_2_9a3c5bed7c.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T04:24:00.776Z",
+            "updatedAt": "2024-10-05T04:24:00.776Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 97,
+          "title": "Ingredients",
+          "value": "Natural rubber or synthetic rubber"
+        },
+        {
+          "id": 98,
+          "title": "Additives",
+          "value": "Graphite, sand, starch, catalysts, colorings, fireproofs"
+        },
+        {
+          "id": 99,
+          "title": "Extrusion temperature",
+          "value": "150 to 250 degrees Celsius"
+        },
+        {
+          "id": 100,
+          "title": "Pressure",
+          "value": " 5 to 100 bar"
+        },
+        {
+          "id": 101,
+          "title": "Expression speed",
+          "value": "1 to 10 meters/minute"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134395,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "stone",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-05T06:02:39.516Z",
+      "updatedAt": "2024-10-05T23:56:14.556Z",
+      "publishedAt": "2024-10-05T06:02:42.050Z",
+      "slug": "calacatta-collection",
+      "title": "Calacatta Collection",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 918,
+          "attributes": {
+            "name": "collection-1.jpeg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1257,
+            "height": 1256,
+            "formats": {
+              "large": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/large_collection_1_f30c1e23ae.jpeg",
+                "hash": "large_collection_1_f30c1e23ae",
+                "mime": "image/jpeg",
+                "name": "large_collection-1.jpeg",
+                "path": null,
+                "size": 95.76,
+                "width": 1000,
+                "height": 999
+              },
+              "small": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/small_collection_1_f30c1e23ae.jpeg",
+                "hash": "small_collection_1_f30c1e23ae",
+                "mime": "image/jpeg",
+                "name": "small_collection-1.jpeg",
+                "path": null,
+                "size": 28.39,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/medium_collection_1_f30c1e23ae.jpeg",
+                "hash": "medium_collection_1_f30c1e23ae",
+                "mime": "image/jpeg",
+                "name": "medium_collection-1.jpeg",
+                "path": null,
+                "size": 57.83,
+                "width": 750,
+                "height": 749
+              },
+              "thumbnail": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/thumbnail_collection_1_f30c1e23ae.jpeg",
+                "hash": "thumbnail_collection_1_f30c1e23ae",
+                "mime": "image/jpeg",
+                "name": "thumbnail_collection-1.jpeg",
+                "path": null,
+                "size": 4.58,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "collection_1_f30c1e23ae",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "size": 143.13,
+            "url": "/images/strapi/uploads/collection_1_f30c1e23ae.jpeg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T23:55:48.661Z",
+            "updatedAt": "2024-10-05T23:55:48.661Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 131,
+          "title": " Solomon Calacatta",
+          "value": "fully recreates contrasting elements deep in the geological layers. The large veins running throughout the stone exude beauty with mysterious depth but also luxury."
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134396,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "stone",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-05T06:03:06.270Z",
+      "updatedAt": "2024-10-05T23:57:33.180Z",
+      "publishedAt": "2024-10-05T06:03:20.826Z",
+      "slug": "sky-collection",
+      "title": "Sky Collection",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 919,
+          "attributes": {
+            "name": "collection-2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 970,
+            "height": 970,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_collection_2_4d33eaa036.jpg",
+                "hash": "small_collection_2_4d33eaa036",
+                "mime": "image/jpeg",
+                "name": "small_collection-2.jpg",
+                "path": null,
+                "size": 36.38,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_collection_2_4d33eaa036.jpg",
+                "hash": "medium_collection_2_4d33eaa036",
+                "mime": "image/jpeg",
+                "name": "medium_collection-2.jpg",
+                "path": null,
+                "size": 80.12,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_collection_2_4d33eaa036.jpg",
+                "hash": "thumbnail_collection_2_4d33eaa036",
+                "mime": "image/jpeg",
+                "name": "thumbnail_collection-2.jpg",
+                "path": null,
+                "size": 4.51,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "collection_2_4d33eaa036",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 127.52,
+            "url": "/images/strapi/uploads/collection_2_4d33eaa036.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T23:57:23.807Z",
+            "updatedAt": "2024-10-05T23:57:23.807Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 132,
+          "title": "Sky Collection",
+          "value": "Artworks inspired by nature are always a topic that artists take advantage of and exploit to honor the natural beauty of life around us."
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134397,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "stone",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-05T06:03:33.958Z",
+      "updatedAt": "2024-10-06T00:27:21.730Z",
+      "publishedAt": "2024-10-05T06:06:11.012Z",
+      "slug": "sparkling-collection",
+      "title": "Sparkling Collection",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 920,
+          "attributes": {
+            "name": "collection-3.jpeg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 1010,
+            "height": 1011,
+            "formats": {
+              "large": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/large_collection_3_e40684fda5.jpeg",
+                "hash": "large_collection_3_e40684fda5",
+                "mime": "image/jpeg",
+                "name": "large_collection-3.jpeg",
+                "path": null,
+                "size": 66.02,
+                "width": 999,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/small_collection_3_e40684fda5.jpeg",
+                "hash": "small_collection_3_e40684fda5",
+                "mime": "image/jpeg",
+                "name": "small_collection-3.jpeg",
+                "path": null,
+                "size": 23.61,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/medium_collection_3_e40684fda5.jpeg",
+                "hash": "medium_collection_3_e40684fda5",
+                "mime": "image/jpeg",
+                "name": "medium_collection-3.jpeg",
+                "path": null,
+                "size": 43.53,
+                "width": 749,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpeg",
+                "url": "/images/strapi/uploads/thumbnail_collection_3_e40684fda5.jpeg",
+                "hash": "thumbnail_collection_3_e40684fda5",
+                "mime": "image/jpeg",
+                "name": "thumbnail_collection-3.jpeg",
+                "path": null,
+                "size": 4.17,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "collection_3_e40684fda5",
+            "ext": ".jpeg",
+            "mime": "image/jpeg",
+            "size": 66.92,
+            "url": "/images/strapi/uploads/collection_3_e40684fda5.jpeg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T23:58:21.229Z",
+            "updatedAt": "2024-10-05T23:58:21.229Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 133,
+          "title": "Sparkling Collection",
+          "value": "designed on a dominant color tone, alternating with sparkling mirror fragments that create good reflectivity to light, very suitable for creating decorative space corners, creating highlights for the interior of the room."
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134398,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "stone",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-05T06:05:48.655Z",
+      "updatedAt": "2024-10-08T02:14:41.779Z",
+      "publishedAt": "2024-10-05T06:05:51.046Z",
+      "slug": "classic-collection",
+      "title": "Classic Collection",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 921,
+          "attributes": {
+            "name": "Ảnh chính_2.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 900,
+            "height": 900,
+            "formats": {
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_Anh_chinh_2_6126dc9d1b.jpg",
+                "hash": "small_Anh_chinh_2_6126dc9d1b",
+                "mime": "image/jpeg",
+                "name": "small_Ảnh chính_2.jpg",
+                "path": null,
+                "size": 40.51,
+                "width": 500,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_Anh_chinh_2_6126dc9d1b.jpg",
+                "hash": "medium_Anh_chinh_2_6126dc9d1b",
+                "mime": "image/jpeg",
+                "name": "medium_Ảnh chính_2.jpg",
+                "path": null,
+                "size": 79.68,
+                "width": 750,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_Anh_chinh_2_6126dc9d1b.jpg",
+                "hash": "thumbnail_Anh_chinh_2_6126dc9d1b",
+                "mime": "image/jpeg",
+                "name": "thumbnail_Ảnh chính_2.jpg",
+                "path": null,
+                "size": 5.4,
+                "width": 156,
+                "height": 156
+              }
+            },
+            "hash": "Anh_chinh_2_6126dc9d1b",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 105.73,
+            "url": "/images/strapi/uploads/Anh_chinh_2_6126dc9d1b.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-05T23:59:14.768Z",
+            "updatedAt": "2024-10-05T23:59:14.768Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 134,
+          "title": "Classic Collection",
+          "value": "stone is a range of natural stone products known for their timeless appeal, durability, versatility, and affordability. They are often used in kitchens and bathrooms."
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  },
+  {
+    "id": 134400,
+    "attributes": {
+      "description": null,
+      "price": null,
+      "brand": null,
+      "category": "screw",
+      "featured": null,
+      "bestseller": false,
+      "createdAt": "2024-10-10T08:57:03.100Z",
+      "updatedAt": "2024-10-10T09:02:25.529Z",
+      "publishedAt": "2024-10-10T08:57:04.768Z",
+      "slug": "helical-screw-s-series",
+      "title": "Helical Screw S Series",
+      "sub_category": null,
+      "feature_image": {
+        "data": {
+          "id": 940,
+          "attributes": {
+            "name": "s-series-helical-screw-1.jpg",
+            "alternativeText": null,
+            "caption": null,
+            "width": 936,
+            "height": 1263,
+            "formats": {
+              "large": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/large_s_series_helical_screw_1_b5ac4a1455.jpg",
+                "hash": "large_s_series_helical_screw_1_b5ac4a1455",
+                "mime": "image/jpeg",
+                "name": "large_s-series-helical-screw-1.jpg",
+                "path": null,
+                "size": 146.76,
+                "width": 741,
+                "height": 1000
+              },
+              "small": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/small_s_series_helical_screw_1_b5ac4a1455.jpg",
+                "hash": "small_s_series_helical_screw_1_b5ac4a1455",
+                "mime": "image/jpeg",
+                "name": "small_s-series-helical-screw-1.jpg",
+                "path": null,
+                "size": 42.36,
+                "width": 371,
+                "height": 500
+              },
+              "medium": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/medium_s_series_helical_screw_1_b5ac4a1455.jpg",
+                "hash": "medium_s_series_helical_screw_1_b5ac4a1455",
+                "mime": "image/jpeg",
+                "name": "medium_s-series-helical-screw-1.jpg",
+                "path": null,
+                "size": 86.15,
+                "width": 556,
+                "height": 750
+              },
+              "thumbnail": {
+                "ext": ".jpg",
+                "url": "/images/strapi/uploads/thumbnail_s_series_helical_screw_1_b5ac4a1455.jpg",
+                "hash": "thumbnail_s_series_helical_screw_1_b5ac4a1455",
+                "mime": "image/jpeg",
+                "name": "thumbnail_s-series-helical-screw-1.jpg",
+                "path": null,
+                "size": 5.98,
+                "width": 116,
+                "height": 156
+              }
+            },
+            "hash": "s_series_helical_screw_1_b5ac4a1455",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "size": 230.62,
+            "url": "/images/strapi/uploads/s_series_helical_screw_1_b5ac4a1455.jpg",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2024-10-10T09:02:21.002Z",
+            "updatedAt": "2024-10-10T09:02:21.002Z"
+          }
+        }
+      },
+      "gallery_image": {
+        "data": null
+      },
+      "highlight": [
+        {
+          "id": 135,
+          "title": "Length (mm)",
+          "value": "1,000 - 2,000"
+        },
+        {
+          "id": 136,
+          "title": "Pipe size (mm)",
+          "value": "76.10"
+        },
+        {
+          "id": 137,
+          "title": "Weight (kg)",
+          "value": "7.50 - 15.00"
+        },
+        {
+          "id": 138,
+          "title": "Steel grade",
+          "value": "STK400/500; SS400; Q345"
+        },
+        {
+          "id": 139,
+          "title": "Surface",
+          "value": "Hot-dip galvanized"
+        }
+      ],
+      "price_range": [],
+      "datasheet": [],
+      "main_image": {
+        "data": null
+      },
+      "specifications_image": {
+        "data": null
+      }
+    }
+  }
+]

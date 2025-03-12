@@ -1,6 +1,5 @@
 ---
-import Layout from "../../layouts/Layout.astro";
-import { AstroSeo } from "@astrolib/seo";
+import Layout from '../../layouts/Layout.astro'
 
 const slmvideo = [
   {
@@ -61,18 +60,13 @@ const techvideo = [
 ];
 ---
 
-<AstroSeo
-    title="Media"
-    description=" ."
-/>
-
 <Layout title="Media">
    
     <div class="bg-slate-100 py-16 sm:py-6">
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl lg:mx-0">
             <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">About SLM</h2>
-            <!-- <p class="mt-6 text-lg leading-8 text-gray-600">We’re a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p> -->
+            <!-- <p class="mt-6 text-lg leading-8 text-gray-600">We're a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p> -->
           </div>
           <ul role="list" class="mx-auto mt-6 grid max-w-2xl grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-4">
             {slmvideo.map(video => (
@@ -92,7 +86,7 @@ const techvideo = [
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl lg:mx-0">
             <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">About Our Products</h2>
-            <!-- <p class="mt-6 text-lg leading-8 text-gray-600">We’re a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p> -->
+            <!-- <p class="mt-6 text-lg leading-8 text-gray-600">We're a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p> -->
           </div>
           <ul role="list" class="mx-auto mt-6 grid max-w-2xl grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-4">
             {productvideo.map(video => (
@@ -112,7 +106,7 @@ const techvideo = [
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
           <div class="mx-auto max-w-2xl lg:mx-0">
             <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">About the Technology</h2>
-            <!-- <p class="mt-6 text-lg leading-8 text-gray-600">We’re a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p> -->
+            <!-- <p class="mt-6 text-lg leading-8 text-gray-600">We're a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</p> -->
           </div>
           <ul role="list" class="mx-auto mt-6 grid max-w-2xl grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-4">
             {techvideo.map(video => (

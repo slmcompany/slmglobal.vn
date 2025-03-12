@@ -1,17 +1,14 @@
 ---
 import Layout from "../../layouts/Layout.astro";
-import fetchApi from "../../lib/strapi.ts";
 import type Products from "../../interfaces/products.ts";
 import Image from "astro/components/Image.astro";
 import Productmenu from "../../components/Productmenu.astro";
+import { getAllProducts } from "../../lib/local-data.ts";
 
-const Products = await fetchApi<Products[]>({
-    endpoint: "products?populate=*", // the content type to fetch
-    wrappedByKey: "data", // the key to unwrap the response
-});
+// Lấy dữ liệu sản phẩm từ local-data thay vì gọi API
+const Products = getAllProducts();
 
 const menuItems = [
-
     {
         title: "Thread Screw",
         imageSrc: "/images/uil_screw.svg",
@@ -31,7 +28,7 @@ const menuItems = [
 ];
 ---
 
-<Layout title="Products">
+<Layout title="Product">
     <div class="bg-slate-100 py-24 sm:py-12">
         <div class="mx-auto max-w-7xl px-4 lg:px-8">
             <div class="mx-auto max-w-2xl lg:mx-0 lg:hidden">
@@ -97,9 +94,10 @@ const menuItems = [
                                 >
                                     <Image
                                         class="grow shrink basis-0 self-stretch rounded-md object-cover"
-                                        src={`https://api.slmglobal.vn${product.attributes.feature_image.data.attributes.url}`}
+                                        src={product.attributes.feature_image.data.attributes.url}
                                         alt={product.attributes.title}
-                                        inferSize
+                                        width={400}
+                                        height={400}
                                     />
                                 </a>
                             </div>

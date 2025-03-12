@@ -23,7 +23,9 @@ export default async function fetchApi<T>({
     endpoint = endpoint.slice(1);
   }
 
-  const url = new URL(`${import.meta.env.STRAPI_URL}/api/${endpoint}`);
+  // Sử dụng biến STRAPI_URL từ .env
+  const strapiUrl = import.meta.env.STRAPI_URL || 'https://api.slmglobal.vn';
+  const url = new URL(`${strapiUrl}/api/${endpoint}`);
 
   if (query) {
     Object.entries(query).forEach(([key, value]) => {
